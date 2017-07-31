@@ -1,0 +1,47 @@
+<UserData Version="3.10.0.0">
+  <Properties>
+    <Item Key="CocosRecentOperation">
+      <Value ctype="CocosRecentOperation">
+        <LastPublishType Value="Resource" />
+        <IsLastPublish Value="True" />
+        <LastRunType Value="Mac" />
+      </Value>
+    </Item>
+    <Item Key="PackageParamsKey">
+      <Value ctype="PackageParams">
+        <LuaIsEncrypt Value="False" />
+        <LuaEncryptKey Value="" />
+        <LuaEncryptSign Value="" />
+        <Android_PackageName Value="org.cocos.MaJiang" />
+        <AndroidkeyStore Value="" />
+        <AndroidVersion Value="android-10" />
+        <iOS_Target Value="MaJiang iOS" />
+        <iOS_BundleID Value="iPhone Developer: Han Xiao (2XBS97XZVB)" />
+        <Platform Value="None" />
+        <RunPlatform Value="None" />
+        <FrameworkVersion Value="IDE cocos" />
+        <IsDebugKeystore Value="True" />
+        <KeystorePassword Value="" />
+        <KeystoreAliasName Value="" />
+        <KeystoreAliasPassword Value="" />
+        <EnableSourceMap Value="False" />
+        <EnableHTML5Advanced Value="False" />
+      </Value>
+    </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="loading/PlayNode.csd" />
+          <FilePathData Path="loading/RoomInfoNode.csd" />
+          <FilePathData Path="loading/lobbyCsd/CellitemOneRoundResult.csd" />
+          <FilePathData Path="loading/mj_main.csd" />
+          <FilePathData Path="loading/PlayerIcon.csd" />
+          <FilePathData Path="loading/lobbyCsd/Layer_result3.csd" />
+          <FilePathData Path="loading/GameMenu.csd" />
+          <FilePathData Path="csb/CSDPeach1.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="csb/CSDPeach1.csd" />
+      </Value>
+    </Item>
+  </Properties>
+</UserData>
